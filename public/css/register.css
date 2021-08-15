@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(104, 175, 145);
+}
+
+form {
+    max-width: 500px;
+    margin: auto;
+}
+
+button {
+    max-width: 200px;
+    background-color: peru;
+}
+
+.demo {
+    background-color: azure;
+    padding: 1cm;
+}
